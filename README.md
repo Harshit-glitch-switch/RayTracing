@@ -32,10 +32,9 @@ Open the project in Visual Studio.
 
 Build and run.
 
-The output will be displayed in a window and/or saved as an image file (PPM).
+The output will be displayed in a window.
 
-📸 Example Output
-(Add rendered images here once you generate them, e.g., spheres, reflections, etc.)
+
 
 📚 References
 Ray Tracing in One Weekend by Peter Shirley
